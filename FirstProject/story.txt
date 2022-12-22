@@ -1,0 +1,10 @@
+# First Stage -> Story of alignment :
+    Micro story : what will you do and bla bla
+    Macro Story : conceptual product thinking
+    Thinking and writing is important
+# Second stage -> UX and functionality, user-experience, of the product i.e context of the product 
+# Third Stage -> Visual and thinkings i.e what you are going to do with the app i.e architectural thinking
+    Architectural Thinking : data models, APIs came from wireframe and Screen, 
+# Fourth Stage -> Divide the task and sub-task.
+if mvp isin our hand we can get user review in our hand so that we can work better that's why mvp is important
+After the Fourth stage, you will get the idea.
